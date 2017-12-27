@@ -1,0 +1,15 @@
+{
+  "name": "franzbros",
+  "version": "1.0.0",
+  "description": "Website for franz brothers website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
